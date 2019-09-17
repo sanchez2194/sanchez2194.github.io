@@ -1,0 +1,255 @@
+html {
+    background-color: black;
+    margin: 0px;
+    width: 1440px;
+}
+
+body {
+    background-color: wheat;
+    border-top: 20px;
+    border-bottom: 40px;
+    width: 1440px;
+    height: 800px;
+    border-top-color: teal;
+    border-bottom-color: teal
+    
+}
+
+header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    margin: 0px;
+    border:10px;
+    padding: 0px;
+    width: 1440px;
+    height: 90px;
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+
+}
+
+h1 {
+    margin: 0px;
+    border: 0px;
+    padding: 10px;
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    background-color:teal;
+    position: relative;
+    left: 233px;
+    color: white;
+    font-family: 'Georgia', Times, 'Times New Roman', serif; 
+    
+}
+
+a {
+    float: right;
+    margin: 0px;
+    border: 10px;
+    padding: 20px;
+    position: relative;
+    bottom: 70px;
+    right: 150px;
+    color: teal
+
+}
+
+#box {
+    
+    margin: 1px;
+    border: 10px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    float: right
+}
+
+
+
+#center-box {
+
+    margin: 0px;
+    border: 10px;
+    padding: 5px;
+    width: 960px;
+    height: 500px;
+    background-color: linen;
+    position: relative;
+    left: 234px;
+    top: 50px;
+}
+
+h2 {
+    margin: 0px;
+    border: 0px;
+    padding: 5px;
+    width: 300px;
+    height: 70px;
+    position: relative;
+    left: 50px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: teal
+}
+
+#pic {
+    height: 300px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    
+}
+
+
+footer {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    margin: 0px;
+    border:10px;
+    padding: 0px;
+    width: 1440px;
+    height: 70px;
+    position: relative;
+    top: 130px;
+    right: 0px;
+    
+
+}
+
+.CR {
+    margin: 0px;
+    border:1px;
+    padding: 5px;
+    width: 100px;
+    position: relative;
+    top: 20px;
+    left: 675px;
+}
+
+#p1 {
+    margin: 0px;
+    border: 0px;
+    padding: 5px;
+    width: 600px;
+    height: 300px;
+    position: relative;
+    left: 300px;
+    bottom: 292px;
+    font-size: 25px;
+    color: teal
+
+}
+
+#p2 {
+    margin: 0px;
+    border: 0px;
+    padding: 5px;
+    width: 600px;
+    height: 300px;
+    position: relative;
+    left: 300px;
+    bottom: 440px;
+    font-size: 25px;
+    color: teal
+
+}
+
+#line1 {
+    position: relative;
+    bottom: 58px;
+}
+
+#line2 {
+    position: relative;
+    bottom: 44px;
+}
+
+#footer-contact {
+    position: relative;
+    top: 110px;
+}
+
+#center-box-contact {
+    margin: 0px;
+    border: 10px;
+    padding: 5px;
+    width: 600px;
+    height: 500px;
+    background-color: linen;
+    position: relative;
+    left: 425px;
+    top: 50px;
+}
+
+#line-contact {
+    position: relative;
+    top: 80px;
+}
+
+#name-contact {
+    position: relative;
+    left: 10px;
+}
+
+#email-contact {
+    position: relative;
+    left: 10px;
+}
+
+#message-contact {
+    position: relative;
+    left: 10px;
+}
+
+#submit-contact {
+    margin: 0px;
+    border: 0px;
+    padding: 2px;
+    width: 75px;
+    height: 25px;
+    position: relative;
+    top: 30px;
+    right: 510px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+
+}
+
+#CR-contact {
+
+    position: relative;
+    left: 675px;
+    top: 20px;
+
+}
+
+#center-box-portfolio {
+    margin: 0px;
+    border: 10px;
+    padding: 5px;
+    width: 600px;
+    height: 500px;
+    background-color: linen;
+    position: relative;
+    left: 425px;
+    top: 50px;
+}
+
+#line1-portfolio {
+    position: relative;
+    bottom: 8px;
+}
+
+#line2-portfolio {
+    position: relative;
+    bottom: 36px;
+}
+
+#CR-portfolio {
+    position: relative;
+    left: 675px;
+    top: 20px;
+}
